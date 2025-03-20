@@ -1,2 +1,0 @@
-# ARF
-Advanced Reconnaissance Framework
